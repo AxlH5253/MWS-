@@ -1,0 +1,88 @@
+.container {    
+	display: grid; 
+	height: 100%;
+	grid-template-columns:   repeat(4,1fr); 
+	grid-template-rows: 50px 50px auto 50px; 
+}
+ .menu {   
+	 background: #02393d; 
+	 grid-column:1/-1;
+	 } 
+
+.header {    
+	background: #027982; 
+	grid-column:1/-1;
+	color: white;
+	}
+
+.sidebar {    
+	background: #eae8e3; 
+	padding: 4px;
+	}
+
+.konten {    
+	background: #eae8e3;    
+	grid-column: 2/-1;    
+	display:grid;    
+	grid-gap: 4px; 
+}
+
+.subkonten{    
+	background: white;    
+	grid-column: 1/-1; 
+	padding: 4px; 
+	display: grid;
+	grid-template-columns: 70px 10px auto;
+}
+
+.footer {    
+	background: #02393d; 
+	grid-column:1/-1;
+	color: white;
+}
+
+.logo{
+	width: 50px;
+	height: 100%;
+}
+
+.profil{
+	width: 100%;
+	max-width:190px;
+	border-radius: 10px;
+}
+
+.button{
+	width: 100px;
+	background-color: grey; 
+    border: none;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 13px;
+    text-align: center;
+    height: auto;
+    max-height: 23px;
+    border-bottom: 2px solid black;
+    vertical-align: middle;
+}
+
+h3{
+	text-align: center;
+}
+
+input{
+	border-color: black;
+}
+
+@media screen and (max-width:720px){
+	.subkonten {    
+		font-size: 10px;
+		grid-template-columns: 50px 10px auto;
+	}
+	.button{
+		font-size: 10px;
+	}
+}

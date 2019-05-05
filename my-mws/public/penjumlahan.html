@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Perhitungan 2 Angka</title>
+</head>
+<body>
+<h1>Penjumlahan 2 Angka</h1>
+    <div class="calc">
+        <input type="text" size="5" placeholder="0"/>
+        +
+        <input type="text" size="5" placeholder="0"/>
+        <button>=</button>
+        <input type="text" size="5" readonly/>
+    </div>
+    <script>
+    	function kalkulator(){
+		    let angka = document.querySelectorAll('input');
+		    let i1 = angka[0].value;
+		    let i2 = angka[1].value;
+		    angka[2].value = parseInt(i1) + parseInt(i2);
+		}
+		let tombol = document.querySelector('button');
+		tombol.addEventListener('click',kalkulator);
+    </script>
+</body>
+</html>

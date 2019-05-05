@@ -1,0 +1,30 @@
+{
+    "places": [{
+            "lokasi": [1.464062,124.825901],
+            "sponsor": "Wisata Bahari Seafood Restoran",
+            "gambar": "https://lh5.googleusercontent.com/p/AF1QipPGqVL0xNF0NY5chHS-_VXwx5xzso6ediJ0ZWdt=w408-h306-k-no",
+            "review": "Hidangan Laut · Bahu Mall Complex, Jl. Wolter Monginsidi 1 Buka hingga 23.00"
+        },
+        {
+            "lokasi": [1.463492,124.826022],
+            "sponsor": "Bakso Campur Surabaya Cab.bahu",
+            "gambar": "https://geo1.ggpht.com/cbk?panoid=Z2Q-N6i-n6rJPW66F2g0pg&output=thumbnail&cb_client=search.TACTILE.gps&thumb=2&w=408&h=200&yaw=44.266342&pitch=0&thumbfov=100",
+            "review": "Baksonya Enak dan Mantap"
+        }, {
+            "lokasi": [1.462228,124.820762],
+            "sponsor": "Big Fish",
+            "gambar": "https://lh5.googleusercontent.com/p/AF1QipMqWAWBs8k9mwbk8UQxFR8V3rrgjOcgPx-wUveM=w408-h306-k-no",
+            "review": "Tempat makan yang menyediakan makanan prasmanan dengan konsep all you can eat. Tempatnya apik. ada juga meja di alam terbuka."
+        }, {
+            "lokasi": [1.463392,124.829463],
+            "sponsor": "Rumah Makan Sate Pelmas TANTA OLLA",
+            "gambar": "https://lh5.googleusercontent.com/p/AF1QipMcAfY0ZGQvvjc7pDt6PC71capG98GI6t-Wbll5=w408-h229-k-no",
+            "review": "Harga ok, rasanya enak, sayang layanannya acak, pengunjung yang datang duluan bisa saja terpaksa menunggu lama."
+        }, {
+            "lokasi": [1.463917,124.827671],
+            "sponsor": "Mie Ceplok Boulevard",
+            "gambar": "https://lh5.googleusercontent.com/p/AF1QipNfkzz5MI-uMfK9LtZmytSTfxIpfRYdsrYkERMH=w408-h229-k-no",
+            "review": "Makanannya Enak dan murah, cocok buat anak kos"
+        }
+    ]
+}

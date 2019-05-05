@@ -1,0 +1,25 @@
+{
+    "name": "MWS App",
+    "short_name": "MWS",
+    "icons": [
+    {
+    "src": "/img/logo.png",
+    "sizes": "128x128",
+    "type": "image/png"
+    },
+    {
+    "src": "/img/logo.png",
+    "sizes": "256x256",
+    "type": "image/png"
+    },
+    {
+    "src": "/img/logo.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }
+    ],
+    "start_url": "/?utm_source=homescreen",
+    "display": "standalone",
+    "background_color": "#3E4EB8",
+    "theme_color": "#2F3BA2"
+}
